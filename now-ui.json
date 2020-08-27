@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-526323-hello-world": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.visualization"],
+				"label": "My Hello World",
+				"icon": "chat-fill",
+				"description": "Hello World component"
+			}
+	    }
+	},
+	"scopeName": "x_526323_test_he_0"
+}
